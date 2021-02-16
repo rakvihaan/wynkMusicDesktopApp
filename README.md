@@ -1,4 +1,5 @@
-# wynkMusicDesktopApp
+# Wynk Music Desktop App #
+---------------------------------------------------------------------------
 
 A simple elctron desktop client for Wynk Music.
 
