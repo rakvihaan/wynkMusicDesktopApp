@@ -19,4 +19,4 @@ npm start
 
 - [ ]Add a customized window
 - [ ]Add a customized scroll bar
-- [ ]Add a cool less boring loading screen
+- [ ]Add a cool and less boring loading screen
