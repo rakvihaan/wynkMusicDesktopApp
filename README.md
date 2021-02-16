@@ -14,5 +14,5 @@ To run the app
 
 ## Future Plans ##
 
-- [ ]Add a customized window
+- [ X ]Add a customized window
 - [ ]Add a customized scroll bar
