@@ -6,6 +6,7 @@ A simple elctron desktop client for Wynk Music.
 ## To run the application ##
 
 Clone or download the repository and follow the instructions.
+
 To install dependencies:
 ```
 npm install
@@ -18,3 +19,4 @@ npm start
 
 - [ ]Add a customized window
 - [ ]Add a customized scroll bar
+- [ ]Add a cool less boring loading screen
